@@ -19,7 +19,6 @@ if(!isset($_SESSION['zalogowany']))
     <title>Czat</title>
 </head>
 <body>
-    <p>ELO</p>
 <?php
 include ('nav.html');
 ?>
