@@ -22,7 +22,7 @@ if((isset($_SESSION['zalogowany'])) && ($_SESSION['zalogowany']==true))
 <body>
 <?php
 include ('header.html');
-?>ttttttttttttttttt
+?>
     <div id="content">
         <div id="main-content">
             <main id="login">
